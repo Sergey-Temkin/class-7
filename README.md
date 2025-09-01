@@ -1,2 +1,2 @@
 # class-7
-github actions class
+github actions fun class
